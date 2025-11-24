@@ -1,0 +1,15 @@
+{
+  "name": "City Destruction #416",
+  "description": "A bomb destroying the city.",
+  "image": "https://raw.githubusercontent.com/operalag/operal-metropolis-public/main/collection2/video.mp4",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Animation"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "First"
+    }
+  ]
+}
