@@ -1,7 +1,8 @@
 {
   "name": "City Destruction #72",
   "description": "A bomb destroying the city.",
-  "image": "https://raw.githubusercontent.com/operalag/operal-metropolis-public/main/collection2/video.mp4",
+  "image": "https://raw.githubusercontent.com/operalag/operal-metropolis-public/main/collection2/image.gif",
+  "animation_url": "https://raw.githubusercontent.com/operalag/operal-metropolis-public/main/collection2/video.mp4",
   "attributes": [
     {
       "trait_type": "Type",
